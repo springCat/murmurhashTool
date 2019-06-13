@@ -8,7 +8,7 @@ Usage of murmurhash:
   -v string
     	hash string
 ```
-### example
+### example:
 ```shell
 murmurhash -s 32 -v qwertyuiop
 1
