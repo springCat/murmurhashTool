@@ -1,4 +1,5 @@
 # murmurhashTool
+#### usage:
 ```shell
 murmurhash -h
 Usage of murmurhash:
@@ -6,4 +7,9 @@ Usage of murmurhash:
     	hash slice
   -v string
     	hash string
+```
+### example
+```shell
+murmurhash -s 32 -v qwertyuiop
+1
 ```
